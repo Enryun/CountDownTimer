@@ -11,6 +11,7 @@
 		30309FC928321EB0009D5679 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30309FC828321EB0009D5679 /* ContentView.swift */; };
 		30309FCB28321EB1009D5679 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30309FCA28321EB1009D5679 /* Assets.xcassets */; };
 		30309FCE28321EB1009D5679 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30309FCD28321EB1009D5679 /* Preview Assets.xcassets */; };
+		30309FD528321ECF009D5679 /* CountDownTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30309FD428321ECF009D5679 /* CountDownTimer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		30309FC828321EB0009D5679 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		30309FCA28321EB1009D5679 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30309FCD28321EB1009D5679 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		30309FD428321ECF009D5679 /* CountDownTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDownTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				30309FC628321EB0009D5679 /* TimeCountDownApp.swift */,
+				30309FD428321ECF009D5679 /* CountDownTimer.swift */,
 				30309FC828321EB0009D5679 /* ContentView.swift */,
 				30309FCA28321EB1009D5679 /* Assets.xcassets */,
 				30309FCC28321EB1009D5679 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				30309FC928321EB0009D5679 /* ContentView.swift in Sources */,
 				30309FC728321EB0009D5679 /* TimeCountDownApp.swift in Sources */,
+				30309FD528321ECF009D5679 /* CountDownTimer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
